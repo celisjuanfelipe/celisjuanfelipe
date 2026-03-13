@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Juan Felipe Celis
-- 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently learning about Machine Learning.
 -  I´m from south of Chile ! 
 
 <!---
