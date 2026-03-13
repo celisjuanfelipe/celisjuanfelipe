@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Juan Felipe Celis
--  I´m from south of Chile ! 
+:alien:
 
 <!---
 celisjuanfelipe/celisjuanfelipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
